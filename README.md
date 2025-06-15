@@ -27,6 +27,7 @@
 │ ├── test_info.csv
 │ └── test_data/unique_id.txt
 └── AI CUP 2025 TEAM_7541.py ← 唯一腳本 (本隊提交)
+```
 > *路徑請與上表一致；若更名，請同步修改 `AI CUP 2025 TEAM_7541.py` 內的 `dir_train`／`dir_test`。*
 
 ---
