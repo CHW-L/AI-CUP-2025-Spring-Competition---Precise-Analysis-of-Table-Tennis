@@ -16,6 +16,7 @@
 ---
 
 ## 2. 專案結構與程式碼路徑
+```text
 .
 ├── 39_Training_Dataset/
 │ └── 39_Training_Dataset/
